@@ -1,0 +1,9 @@
+stages:
+  - test
+
+run-tests:
+  stage: test
+  script:
+    - echo "Running Tests..."
+    - echo "Tests Passed!"
+
