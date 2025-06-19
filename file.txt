@@ -1,3 +1,0 @@
-Line from main
-Line from feature
-Hotfix in main
